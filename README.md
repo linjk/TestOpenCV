@@ -1,0 +1,1 @@
+OpenCV在Android平台测试例子
